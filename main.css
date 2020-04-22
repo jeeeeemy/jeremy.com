@@ -1,0 +1,21 @@
+body {
+  background-color: mistyrose;
+}
+
+h1 {
+  color: #d8345f;
+}
+
+h3  {
+  color: #0779e4;
+}
+hr {
+  background-color: gold;
+  border-style: none;
+  height: 3px;
+  width: 100%
+}
+#boat-picture {
+height: 480px;
+width: 270px;
+  }
